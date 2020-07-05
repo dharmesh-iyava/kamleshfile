@@ -25,7 +25,7 @@ SECRET_KEY = 'mwxv1(a3kh1*3y39ou($8e7mmewkm0#twzgt1h6$a0(vnw0*he'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['amazingsoppy.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['djangoimagefield.herokuapp.com','127.0.0.1']
 
 
 # Application definition
